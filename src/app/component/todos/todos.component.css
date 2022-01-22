@@ -47,4 +47,6 @@
 }
 .todo-delete {
   display: block;
+  max-block-size: 50px;
+  flex-basis: 10%;
 }
